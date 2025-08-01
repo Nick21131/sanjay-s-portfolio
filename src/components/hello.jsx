@@ -23,7 +23,7 @@ export default function Hello() {
                         <h2 className="fs-4 text-secondary">Frontend Developer</h2>
                         <div className="d-flex gap-3">
                             <a href="#" className="btn btn-default-s btn-outline-dark rounded-pill px-3 py-2">Downlod CV</a>
-                            <a href="#" className="btn btn-primary-s btn-default btn-dark rounded-pill px-3 py-2">Contact Info</a>
+                            <a href="#contacts" className="btn btn-primary-s btn-default btn-dark rounded-pill px-3 py-2">Contact Info</a>
                         </div>
                         <div className="d-flex justify-content-center justify-content-md-start gap-3 px-5 mx-5 my-2">
                             <a href="https://www.linkedin.com/in/sanjay-gurugubelli-70ba57215" 
