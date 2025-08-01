@@ -1,5 +1,5 @@
 
-export default function Navbar() {
+export default function Nav() {
     return (
         <nav className="navbar navbar-expand-lg mb-5 text-center" style={{ backgroundColor: "white" }}>
             <div className="container p-2 mb-5">

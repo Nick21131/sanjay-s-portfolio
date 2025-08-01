@@ -1,10 +1,10 @@
 import './App.css'
-import About from "./components/about.jsx";
-import Contacts from "./components/contacts.jsx";
-import Exp from "./components/exp.jsx";
+import About from "./components/About.jsx";
+import Contacts from "./components/Contacts.jsx";
+import Exp from "./components/Exp.jsx";
 import Hello from "./components/Hello.jsx";
-import Nav from "./components/nav.jsx";
-import Projects from "./components/projects.jsx";
+import Nav from "./components/Nav.jsx";
+import Projects from "./components/Projects.jsx";
 
 function App() {
 
